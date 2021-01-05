@@ -1,5 +1,4 @@
 ---
-excerpt: "ここに説明書き"
 header:
   overlay_color: "#333"
 ---
