@@ -1,7 +1,3 @@
----
-header:
-  overlay_color: "#333"
----
 
 ### Pagesの設定
 * 各リポジトリのページ内でメニュー右端の`Setting`をクリックする。
