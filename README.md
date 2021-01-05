@@ -1,3 +1,9 @@
+---
+excerpt: "ここに説明書き"
+header:
+  overlay_color: "#333"
+---
+
 ### Pagesの設定
 * 各リポジトリのページ内でメニュー右端の`Setting`をクリックする。
 * 下のほうの`GitHub Pages`で設定する。
